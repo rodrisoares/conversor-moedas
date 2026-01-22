@@ -31,7 +31,7 @@ O **Conversor de Moedas** é uma aplicação web simples e intuitiva que permite
 
 1.  Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/conversor-moedas.git
+    git clone https://github.com/rodrisoares/conversor-moedas.git
     ```
 2.  Abra o arquivo `index.html` em seu navegador de preferência.
 3.  Insira o valor em Reais que deseja converter.
